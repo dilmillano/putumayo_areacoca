@@ -1,1 +1,2 @@
 # putumayo_areacoca
+Este repositorio es parte del análisis de patrones espaciales que permite ver la interrelación entre la densidad de cultivos de coca y la tasa anual de deforestación en el departamento de Putumayo para el año 2014.
